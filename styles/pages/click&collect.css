@@ -201,10 +201,6 @@
 }
 
 .menu__choice {
-    display: none;
-}
-
-.menuVisible {
     display: flex;
     flex-direction: column;
     gap: 1rem;
